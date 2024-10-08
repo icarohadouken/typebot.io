@@ -8,14 +8,14 @@ export const useTemplates = (): TemplateProps[] => {
     {
       name: t('templates.modal.whatsapp.leadGeneration.name'),
       emoji: '🚀',
-      fileName: 'lead-gen-instagram.json',
+      fileName: 'lead-gen-whatsapp.json',
       category: 'whatsapp',
       description: t('templates.modal.marketing.leadGeneration.description'),
     },
     {
       name: t('templates.modal.instagram.leadGeneration.name'),
       emoji: '🚀',
-      fileName: 'lead-gen-whatsapp.json',
+      fileName: 'lead-gen-instagram.json',
       category: 'instagram',
       description: t('templates.modal.marketing.leadGeneration.description'),
     },
